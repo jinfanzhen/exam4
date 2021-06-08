@@ -17,4 +17,4 @@ return num1+num2;
 </code>
 </script>
 
-Link :[강릉원주대학교] (https://www.gwnu.ac.kr/sites/kor/index.do)
+[강릉원주대학교](https://www.gwnu.ac.kr/sites/kor/index.do)
